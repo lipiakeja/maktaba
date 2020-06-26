@@ -26,5 +26,6 @@ class Snackbar : AppCompatActivity() {
                 toast("Action ok Clicked")
             }
         }
+        toast("Welcome")
     }
 }
