@@ -1,5 +1,7 @@
 # View util Extensions :fire: :fire:
 
+[![](https://jitpack.io/v/lipiakeja/maktaba.svg)](https://jitpack.io/#lipiakeja/maktaba)
+
 Here we will have the following view extension
 
 **1. [Installation](#installation).**</br>
@@ -24,7 +26,7 @@ Add the dependency to your app level build.gradle:
 ```gradle
 dependencies {
 	...
-	implementation 'com.jnyakush.maktaba:viewutils:$latestVersion'
+	implementation 'com.github.lipiakeja:maktaba:$latestVersion'
 }
 ```
 
