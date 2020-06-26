@@ -2,10 +2,10 @@
 
 Here we will have the following view extension
 
-**1. [Installation](#installation).**
-**2. [Toast Usage](#toast-usage).**
-**3. [Snackbar Usage](#snackbar-usage).**
-**4. [Visibility Usage](#visibility-usage).**
+**1. [Installation](#installation).**</br>
+**2. [Toast Usage](#toast-usage).**</br>
+**3. [Snackbar Usage](#snackbar-usage).**</br>
+**4. [Visibility Usage](#visibility-usage).**</br>
 
 ## Installation.
 Add it in your root build.gradle at the end of repositories:
